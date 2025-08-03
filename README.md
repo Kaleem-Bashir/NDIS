@@ -1,6 +1,6 @@
 # NDIS Platform - Complete Application Showcase
 
-> **🚀 Live Demo**: [View Application Screenshots](#application-screenshots) | [Technical Details](#technical-specifications)
+> **🚀 Production Ready NDIS Application** | **📱 Full-Featured Platform** | **🎯 Complete User Experience**
 
 ## Quick Overview
 
@@ -19,66 +19,106 @@ The NDIS Platform is a comprehensive web application designed to streamline NDIS
 ## 📱 Application Screenshots
 
 ### Dashboard & Overview
-![Dashboard](./screenshots/dashboard.png)
+<details>
+<summary>Click to view Dashboard</summary>
+
+![Dashboard](./screenshots/1.png)
 *Main dashboard showing key metrics and quick actions*
 
+</details>
+
 ### User Authentication
-![Login Screen](./screenshots/login.png)
+<details>
+<summary>Click to view Authentication Screens</summary>
+
+![Login Screen](./screenshots/2.png)
 *Secure login with multiple authentication options*
 
-![Registration](./screenshots/registration.png)
+![Registration](./screenshots/3.png)
 *User registration with role-based access*
 
+</details>
+
 ### Participant Management
-![Participant List](./screenshots/participant-list.png)
+<details>
+<summary>Click to view Participant Management</summary>
+
+![Participant List](./screenshots/4.png)
 *Comprehensive participant directory*
 
-![Participant Profile](./screenshots/participant-profile.png)
+![Participant Profile](./screenshots/5.png)
 *Detailed participant information and NDIS plan tracking*
 
-![Plan Management](./screenshots/plan-management.png)
+![Plan Management](./screenshots/6.png)
 *NDIS plan tracking and budget management*
 
+</details>
+
 ### Session Management
-![Session Booking](./screenshots/session-booking.png)
+<details>
+<summary>Click to view Session Management</summary>
+
+![Session Booking](./screenshots/7.png)
 *Intuitive session scheduling interface*
 
-![Session History](./screenshots/session-history.png)
+![Session History](./screenshots/8.png)
 *Complete session tracking and history*
 
-![Time Tracking](./screenshots/time-tracking.png)
+![Time Tracking](./screenshots/9.png)
 *Real-time session tracking for support workers*
 
+</details>
+
 ### Financial Management
-![Invoice Generation](./screenshots/invoice-generation.png)
+<details>
+<summary>Click to view Financial Management</summary>
+
+![Invoice Generation](./screenshots/10.png)
 *Automated invoice generation from sessions*
 
-![Financial Reports](./screenshots/financial-reports.png)
+![Financial Reports](./screenshots/11.png)
 *Comprehensive financial reporting dashboard*
 
-![Payment Tracking](./screenshots/payment-tracking.png)
+![Payment Tracking](./screenshots/12.png)
 *Payment status and NDIS claim tracking*
 
+</details>
+
 ### Task & Document Management
-![Task Management](./screenshots/task-management.png)
+<details>
+<summary>Click to view Task & Document Management</summary>
+
+![Task Management](./screenshots/13.png)
 *Priority-based task organization and tracking*
 
-![Document Storage](./screenshots/document-storage.png)
+![Document Storage](./screenshots/14.png)
 *Secure document management with version control*
 
+</details>
+
 ### Reporting & Analytics
-![Analytics Dashboard](./screenshots/analytics.png)
+<details>
+<summary>Click to view Reporting & Analytics</summary>
+
+![Analytics Dashboard](./screenshots/15.png)
 *Data-driven insights and performance metrics*
 
-![Custom Reports](./screenshots/custom-reports.png)
+![Custom Reports](./screenshots/16.png)
 *Flexible report generation tools*
 
+</details>
+
 ### Mobile Experience
-![Mobile Dashboard](./screenshots/mobile-dashboard.png)
+<details>
+<summary>Click to view Mobile Experience</summary>
+
+![Mobile Dashboard](./screenshots/17.png)
 *Fully responsive mobile interface*
 
-![Mobile Navigation](./screenshots/mobile-navigation.png)
+![Mobile Navigation](./screenshots/18.png)
 *Optimized mobile navigation and UX*
+
+</details>
 
 ---
 
@@ -251,7 +291,7 @@ The NDIS Platform is a comprehensive web application designed to streamline NDIS
 5. Start the application: `npm run dev`
 
 ### Live Demo
-[Contact us for a live demonstration](#contact)
+Contact us for a live demonstration
 
 ---
 
