@@ -16,109 +16,70 @@ The NDIS Platform is a comprehensive web application designed to streamline NDIS
 
 ---
 
-## 📱 Application Screenshots
+## 📱 Application Flow Screenshots
 
-### Dashboard & Overview
-<details>
-<summary>Click to view Dashboard</summary>
-
-![Dashboard](./screenshots/1.png)
+### 🏠 Main Dashboard Flow
+![Dashboard](https://i.postimg.cc/r0PWnFt9/1.png)
 *Main dashboard showing key metrics and quick actions*
 
-</details>
-
-### User Authentication
-<details>
-<summary>Click to view Authentication Screens</summary>
-
-![Login Screen](./screenshots/2.png)
+### 🔐 Authentication Flow
+![Login Screen](https://i.postimg.cc/3dpp1hrg/2.png)
 *Secure login with multiple authentication options*
 
-![Registration](./screenshots/3.png)
+![Registration](https://i.postimg.cc/w31DtJS4/3.png)
 *User registration with role-based access*
 
-</details>
-
-### Participant Management
-<details>
-<summary>Click to view Participant Management</summary>
-
-![Participant List](./screenshots/4.png)
+### 👥 Participant Management Flow
+![Participant List](https://i.postimg.cc/8sxMLcGp/4.png)
 *Comprehensive participant directory*
 
-![Participant Profile](./screenshots/5.png)
+![Participant Profile](https://i.postimg.cc/0KKSLRY1/5-Participants.png)
 *Detailed participant information and NDIS plan tracking*
 
-![Plan Management](./screenshots/6.png)
-*NDIS plan tracking and budget management*
+![Add Participant](https://i.postimg.cc/k2mShHDL/6-Add-Partcipipant.png)
+*Add new participant with complete profile information*
 
-</details>
+### 📅 Session Management Flow
+![Session Management](https://i.postimg.cc/676vBGr0/7-Session.png)
+*Session booking and management interface*
 
-### Session Management
-<details>
-<summary>Click to view Session Management</summary>
+### 💰 Financial Management Flow
+![Invoice Management](https://i.postimg.cc/k2vSrybG/8-Invocices.png)
+*Invoice generation and billing management*
 
-![Session Booking](./screenshots/7.png)
-*Intuitive session scheduling interface*
+### 📄 Document Management Flow
+![Upload Documents](https://i.postimg.cc/NyNrFfbw/9-Upload-Doc.png)
+*Document upload interface*
 
-![Session History](./screenshots/8.png)
-*Complete session tracking and history*
+![Document View](https://i.postimg.cc/MMvfQ2rf/10-Upload-Doc-View.png)
+*Document viewing and management*
 
-![Time Tracking](./screenshots/9.png)
-*Real-time session tracking for support workers*
+![Document View Dark Mode](https://i.postimg.cc/R6y61sjs/11-Upload-Doc-View-Dark.png)
+*Document management in dark mode*
 
-</details>
+### ✅ Task Management Flow
+![Task List](https://i.postimg.cc/wRNtw5z6/12-Tasks.png)
+*Task organization and tracking*
 
-### Financial Management
-<details>
-<summary>Click to view Financial Management</summary>
+![Add Task](https://i.postimg.cc/mh1FZ4H0/13-Add-task.png)
+*Create new task with priority settings*
 
-![Invoice Generation](./screenshots/10.png)
-*Automated invoice generation from sessions*
+### 📊 Reporting & Analytics Flow
+![Reports Dashboard](https://i.postimg.cc/dL8kd9n6/14-Reports.png)
+*Comprehensive reporting dashboard*
 
-![Financial Reports](./screenshots/11.png)
-*Comprehensive financial reporting dashboard*
+![Report Filters](https://i.postimg.cc/F7tk76b1/15-Reprts-Filters.png)
+*Advanced filtering options for reports*
 
-![Payment Tracking](./screenshots/12.png)
-*Payment status and NDIS claim tracking*
+![Report Tables](https://i.postimg.cc/CR7RrL3f/15-Reprts-table.png)
+*Detailed report data tables*
 
-</details>
+### ⚙️ Settings & Configuration Flow
+![Settings](https://i.postimg.cc/G4dBjs5C/16-Settings.png)
+*System settings and configuration*
 
-### Task & Document Management
-<details>
-<summary>Click to view Task & Document Management</summary>
-
-![Task Management](./screenshots/13.png)
-*Priority-based task organization and tracking*
-
-![Document Storage](./screenshots/14.png)
-*Secure document management with version control*
-
-</details>
-
-### Reporting & Analytics
-<details>
-<summary>Click to view Reporting & Analytics</summary>
-
-![Analytics Dashboard](./screenshots/15.png)
-*Data-driven insights and performance metrics*
-
-![Custom Reports](./screenshots/16.png)
-*Flexible report generation tools*
-
-</details>
-
-### Mobile Experience
-<details>
-<summary>Click to view Mobile Experience</summary>
-
-![Mobile Dashboard](./screenshots/17.png)
-*Fully responsive mobile interface*
-
-![Mobile Navigation](./screenshots/18.png)
-*Optimized mobile navigation and UX*
-
-</details>
+![User Preferences](https://i.postimg.cc/rdpKB2TZ/17-Settings-Pref.png)
+*User preferences and customization options*
 
 ---
 
