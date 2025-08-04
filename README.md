@@ -18,20 +18,21 @@ The NDIS Platform is a comprehensive web application designed to streamline NDIS
 
 ## 📱 Application Flow Screenshots
 
-### 🏠 Main Dashboard Flow
+### 🔐 Authentication Flow Dark Theme
 ![Dashboard](https://i.postimg.cc/SRyrKnSH/1.png)
-*Main dashboard showing key metrics and quick actions*
+*Secure login with multiple social authentication options*
 
-### 🔐 Authentication Flow
+### 🔐 Authentication Flow Light Theme
 ![Login Screen](https://i.postimg.cc/gktDYcfB/2.png)
-*Secure login with multiple authentication options*
 
+### 🏠 Main Dashboard Light Theme
 ![Registration](https://i.postimg.cc/445PSQwG/3.png)
-*User registration with role-based access*
 
-### 👥 Participant Management Flow
+
+### 👥 🏠 Main Dashboard eDark Theme
 ![Participant List](https://i.postimg.cc/VLkgQ0HC/4.png)
-*Comprehensive participant directory*
+
+
 
 ![Participant Profile](https://i.postimg.cc/1XJKVy4X/5-Participants.png)
 *Detailed participant information and NDIS plan tracking*
